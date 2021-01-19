@@ -11,6 +11,10 @@
     {
       "nome": "Fortaleza",
       "id": 3
+    },
+    {
+      "nome": "Rio De Janeiro",
+      "id": 4
     }
   ]
 }
